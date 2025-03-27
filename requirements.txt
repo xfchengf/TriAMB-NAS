@@ -1,0 +1,9 @@
+yacs
+graphviz
+python-graphviz
+h5py
+utils   
+python-utils    
+tensorboardX    
+einops
+
